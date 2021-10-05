@@ -1,0 +1,15 @@
+
+$(info ************ BUILDING ************)
+ 
+BUILD_EXES+=lowLightEnhancement
+lowLightEnhancement_CPP_SRCS += src/ImageEnhance 
+lowLightEnhancement_LIBS += lib/libfastcv.a  lib/libopencv_videoio.so.3.4.3  lib/libopencv_objdetect.so.3.4.3 lib/libopencv_highgui.so.3.4.3 lib/libopencv_core.so.3.4.3 lib/libopencv_imgproc.so.3.4.3 lib/libopencv_imgcodecs.so.3.4.3  
+lowLightEnhancement_LD_FLAGS += -lpthread -lc -ldl  -lstdc++
+lowLightEnhancement_DEFINES += VERIFY_PRINT_ERROR 
+
+# copy final build products to the ship directory
+BUILD_COPIES = \
+   $(DLLS) \
+   $(EXES) \
+   $(LIBS) \
+   $(SHIP_DIR)/ 

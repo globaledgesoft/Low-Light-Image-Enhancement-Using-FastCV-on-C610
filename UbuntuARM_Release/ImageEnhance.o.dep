@@ -1,0 +1,252 @@
+src/ImageEnhance.cpp:
+inc/fastcv.h:
+inc/opencv2/opencv.hpp:
+inc/opencv2/opencv_modules.hpp:
+inc/opencv2/core.hpp:
+inc/opencv2/calib3d.hpp:
+inc/opencv2/features2d.hpp:
+inc/opencv2/flann.hpp:
+inc/opencv2/highgui.hpp:
+inc/opencv2/imgcodecs.hpp:
+inc/opencv2/imgproc.hpp:
+inc/opencv2/ml.hpp:
+inc/opencv2/objdetect.hpp:
+inc/opencv2/photo.hpp:
+inc/opencv2/shape.hpp:
+inc/opencv2/stitching.hpp:
+inc/opencv2/superres.hpp:
+inc/opencv2/video.hpp:
+inc/opencv2/videoio.hpp:
+inc/opencv2/videostab.hpp:
+inc/opencv2/core/cvdef.h:
+inc/opencv2/core/version.hpp:
+inc/opencv2/core/base.hpp:
+inc/opencv2/core/cvstd.hpp:
+inc/opencv2/core/traits.hpp:
+inc/opencv2/core/matx.hpp:
+inc/opencv2/core/types.hpp:
+inc/opencv2/core/mat.hpp:
+inc/opencv2/core/persistence.hpp:
+inc/opencv2/core/operations.hpp:
+inc/opencv2/core/cvstd.inl.hpp:
+inc/opencv2/core/utility.hpp:
+inc/opencv2/core/optim.hpp:
+inc/opencv2/core/ovx.hpp:
+inc/opencv2/core/affine.hpp:
+inc/opencv2/calib3d/calib3d_c.h:
+inc/opencv2/flann/miniflann.hpp:
+inc/opencv2/flann/flann_base.hpp:
+inc/opencv2/highgui/highgui_c.h:
+inc/opencv2/imgproc/imgproc_c.h:
+inc/opencv2/ml/ml.inl.hpp:
+inc/opencv2/objdetect/detection_based_tracker.hpp:
+inc/opencv2/objdetect/objdetect_c.h:
+inc/opencv2/photo/photo_c.h:
+inc/opencv2/shape/emdL1.hpp:
+inc/opencv2/shape/shape_transformer.hpp:
+inc/opencv2/shape/hist_cost.hpp:
+inc/opencv2/shape/shape_distance.hpp:
+inc/opencv2/stitching/warpers.hpp:
+inc/opencv2/stitching/detail/matchers.hpp:
+inc/opencv2/stitching/detail/motion_estimators.hpp:
+inc/opencv2/stitching/detail/exposure_compensate.hpp:
+inc/opencv2/stitching/detail/seam_finders.hpp:
+inc/opencv2/stitching/detail/blenders.hpp:
+inc/opencv2/stitching/detail/camera.hpp:
+inc/opencv2/superres/optical_flow.hpp:
+inc/opencv2/video/tracking.hpp:
+inc/opencv2/video/background_segm.hpp:
+inc/opencv2/video/tracking_c.h:
+inc/opencv2/videostab/stabilizer.hpp:
+inc/opencv2/videostab/ring_buffer.hpp:
+inc/opencv2/core/hal/interface.h:
+inc/opencv2/core/cv_cpu_dispatch.h:
+inc/opencv2/core/fast_math.hpp:
+inc/opencv2/core/neon_utils.hpp:
+inc/opencv2/core/vsx_utils.hpp:
+inc/opencv2/core/check.hpp:
+inc/opencv2/core/ptr.inl.hpp:
+inc/opencv2/core/saturate.hpp:
+inc/opencv2/core/bufferpool.hpp:
+inc/opencv2/core/mat.inl.hpp:
+inc/opencv2/core/core_c.h:
+inc/opencv2/flann/defines.h:
+inc/opencv2/flann/general.h:
+inc/opencv2/flann/matrix.h:
+inc/opencv2/flann/params.h:
+inc/opencv2/flann/saving.h:
+inc/opencv2/flann/all_indices.h:
+inc/opencv2/imgcodecs/imgcodecs_c.h:
+inc/opencv2/videoio/videoio_c.h:
+inc/opencv2/imgproc/types_c.h:
+inc/opencv2/stitching/detail/warpers.hpp:
+inc/opencv2/xfeatures2d/cuda.hpp:
+inc/opencv2/stitching/detail/util.hpp:
+inc/opencv2/core/cuda.hpp:
+inc/opencv2/videostab/global_motion.hpp:
+inc/opencv2/videostab/motion_stabilizing.hpp:
+inc/opencv2/videostab/frame_source.hpp:
+inc/opencv2/videostab/log.hpp:
+inc/opencv2/videostab/inpainting.hpp:
+inc/opencv2/videostab/deblurring.hpp:
+inc/opencv2/videostab/wobble_suppression.hpp:
+inc/opencv2/core/cv_cpu_helper.h:
+inc/opencv2/core/types_c.h:
+inc/opencv2/flann/config.h:
+inc/opencv2/flann/any.h:
+inc/opencv2/flann/nn_index.h:
+inc/opencv2/flann/kdtree_index.h:
+inc/opencv2/flann/kdtree_single_index.h:
+inc/opencv2/flann/kmeans_index.h:
+inc/opencv2/flann/composite_index.h:
+inc/opencv2/flann/linear_index.h:
+inc/opencv2/flann/hierarchical_clustering_index.h:
+inc/opencv2/flann/lsh_index.h:
+inc/opencv2/flann/autotuned_index.h:
+inc/opencv2/stitching/detail/warpers_inl.hpp:
+inc/opencv2/stitching/detail/util_inl.hpp:
+inc/opencv2/core/cuda_types.hpp:
+inc/opencv2/core/cuda.inl.hpp:
+inc/opencv2/videostab/optical_flow.hpp:
+inc/opencv2/videostab/motion_core.hpp:
+inc/opencv2/videostab/outlier_rejection.hpp:
+inc/opencv2/videostab/fast_marching.hpp:
+inc/opencv2/flann/result_set.h:
+inc/opencv2/flann/dynamic_bitset.h:
+inc/opencv2/flann/heap.h:
+inc/opencv2/flann/allocator.h:
+inc/opencv2/flann/random.h:
+inc/opencv2/flann/dist.h:
+inc/opencv2/flann/logger.h:
+inc/opencv2/flann/lsh_table.h:
+inc/opencv2/flann/ground_truth.h:
+inc/opencv2/flann/index_testing.h:
+inc/opencv2/flann/sampling.h:
+inc/opencv2/videostab/fast_marching_inl.hpp:
+inc/opencv2/flann/timer.h:
+UbuntuARM_Release/ImageEnhance.o: src/ImageEnhance.cpp
+UbuntuARM_Release/ImageEnhance.o: inc/fastcv.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/opencv.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/opencv_modules.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/calib3d.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/features2d.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/highgui.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/imgcodecs.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/imgproc.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/ml.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/objdetect.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/photo.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/shape.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/superres.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/video.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videoio.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cvdef.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/version.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/base.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cvstd.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/traits.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/matx.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/types.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/mat.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/persistence.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/operations.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cvstd.inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/utility.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/optim.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/ovx.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/affine.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/calib3d/calib3d_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/miniflann.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/flann_base.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/highgui/highgui_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/imgproc/imgproc_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/ml/ml.inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/objdetect/detection_based_tracker.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/objdetect/objdetect_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/photo/photo_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/shape/emdL1.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/shape/shape_transformer.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/shape/hist_cost.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/shape/shape_distance.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/warpers.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/matchers.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/motion_estimators.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/exposure_compensate.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/seam_finders.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/blenders.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/camera.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/superres/optical_flow.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/video/tracking.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/video/background_segm.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/video/tracking_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/stabilizer.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/ring_buffer.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/hal/interface.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cv_cpu_dispatch.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/fast_math.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/neon_utils.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/vsx_utils.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/check.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/ptr.inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/saturate.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/bufferpool.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/mat.inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/core_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/defines.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/general.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/matrix.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/params.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/saving.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/all_indices.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/imgcodecs/imgcodecs_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videoio/videoio_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/imgproc/types_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/warpers.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/xfeatures2d/cuda.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/util.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cuda.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/global_motion.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/motion_stabilizing.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/frame_source.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/log.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/inpainting.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/deblurring.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/wobble_suppression.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cv_cpu_helper.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/types_c.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/config.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/any.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/nn_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/kdtree_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/kdtree_single_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/kmeans_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/composite_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/linear_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/hierarchical_clustering_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/lsh_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/autotuned_index.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/warpers_inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/stitching/detail/util_inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cuda_types.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/core/cuda.inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/optical_flow.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/motion_core.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/outlier_rejection.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/fast_marching.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/result_set.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/dynamic_bitset.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/heap.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/allocator.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/random.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/dist.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/logger.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/lsh_table.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/ground_truth.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/index_testing.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/sampling.h
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/videostab/fast_marching_inl.hpp
+UbuntuARM_Release/ImageEnhance.o: inc/opencv2/flann/timer.h
